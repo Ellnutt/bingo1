@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>nightclub | Contacts</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script src="js/jquery-1.6.js" ></script>
+<script src="js/cufon-yui.js"></script>
+<script src="js/cufon-replace.js"></script>
+<script src="js/NewsGoth_BT_400.font.js"></script>
+<script src="js/NewsGoth_BT_700.font.js"></script>
+<script src="js/atooltip.jquery.js"></script>
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<link rel="stylesheet" href="css/ie.css" type="text/css" media="all">
+<![endif]-->
+</head>
+<body id="page6">
+<div class="bg1">
+  <div class="main">
+    <!--header -->
+    <header>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Club</a></li>
+          <li><a href="parties.html">Parties</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="residents.html">Residents</a></li>
+          <li><a href="news.html">News</a></li>
+          <li class="active"><a href="contacts.html">Contacts</a></li>
+        </ul>
+      </nav>
+      <h1><a href="index.html" id="logo">nightclub feel the rhythm</a></h1>
+    </header>
+    <!--header end-->
+    <div class="box">
+      <!--content -->
+      <article id="content">
+        <div class="wrapper">
+          <h2>Contact Form</h2>
+          <form id="ContactForm" action="#">
+            <div>
+              <div class="wrapper"> <span>Name:</span>
+                <input type="text" class="input" >
+              </div>
+              <div class="wrapper"> <span>Email:</span>
+                <input type="text" class="input" >
+              </div>
+              <div class="wrapper"> <span>Subject:</span>
+                <input type="text" class="input" >
+              </div>
+              <div class="textarea_box"> <span>Message:</span>
+                <textarea name="textarea" cols="1" rows="1"></textarea>
+              </div>
+              <a href="#" class="button">send</a> <a href="#" class="button">clear</a> </div>
+          </form>
+        </div>
+        <div class="wrapper">
+          <div class="col1">
+            <h2>Contact Form</h2>
+            <p class="color1 pad_bot1">8901 Marmora, Glasgow, D04 89GR</p>
+            <p class="address">Freephone:<br>
+              Telephone:<br>
+              FAX:<br>
+              E-mail:</p>
+            <p>+1 800 559 6580<br>
+              +1 959 603 6035<br>
+              +1 504 889 9898<br>
+              <a href="#" class="link2">mail@demolink.org</a></p>
+          </div>
+          <div class="col2 pad_left1">
+            <h2>Miscellaneous Info</h2>
+            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque.</p>
+          </div>
+        </div>
+      </article>
+      <!--content end-->
+      <!--footer -->
+      <footer>
+        <div class="line1">
+          <div class="line2 wrapper">
+            <div class="icons">
+              <h4>Connect With Us</h4>
+              <ul id="icons">
+                <li><a href="#" class="normaltip"><img src="images/icon1.jpg" alt=""></a></li>
+                <li><a href="#" class="normaltip"><img src="images/icon2.jpg" alt=""></a></li>
+                <li><a href="#" class="normaltip"><img src="images/icon3.jpg" alt=""></a></li>
+                <li><a href="#" class="normaltip"><img src="images/icon4.jpg" alt=""></a></li>
+                <li><a href="#" class="normaltip"><img src="images/icon5.jpg" alt=""></a></li>
+              </ul>
+              <!-- {%FOOTER_LINK} -->
+            </div>
+            <div class="info">
+              <h4>About Us</h4>
+              <ul>
+                <li><a href="#">Club Info</a></li>
+                <li><a href="#">Music</a></li>
+                <li><a href="#">DJ Sets</a></li>
+                <li><a href="#">News</a></li>
+              </ul>
+            </div>
+            <div class="info">
+              <h4>Join In</h4>
+              <ul>
+                <li><a href="#">Sign In</a></li>
+                <li><a href="#">Forums</a></li>
+                <li><a href="#">Promotions</a></li>
+              </ul>
+            </div>
+            <div class="phone">
+              <h4>Order Tickets</h4>
+              <p>Free Phone<span>8-800-123-NIGHT</span></p>
+            </div>
+          </div>
+          Copyright &copy; <a href="#">Domain Name</a> All Rights Reserved | Design by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></div>
+      </footer>
+      <!--footer end-->
+    </div>
+  </div>
+</div>
+<script>Cufon.now();</script>
+</body>
+</html>
